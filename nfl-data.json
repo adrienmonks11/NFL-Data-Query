@@ -1,0 +1,781 @@
+[
+    {
+        "name": "Arizona Cardinals",
+        "city": "Glendale",
+        "owner": "Michael Bidwill",
+        "coach": "Jonathan Gannon",
+        "top_100":[
+            {
+                "name": "Buda Baker",
+                "position":"S",
+                "rank": 73
+            }
+        ]
+    },
+    {
+        "name": "Atlanta Falcons",
+        "city": "Atlanta",
+        "owner": "Arthur Blank",
+        "coach": "Arthur Smith",
+        "top_100":[
+            {
+                "name": "Grady Jerrett",
+                "position":"DE",
+                "rank": 63
+            },
+            {
+                "name": "Chris Lindstrom",
+                "position":"G",
+                "rank": 87
+            }
+        ]
+    },
+    {
+        "name": "Baltimore Ravens",
+        "city": "Baltimore",
+        "owner": "Steve Bisciotti",
+        "coach": "John Harbaugh",
+        "last_championship":2013,
+        "top_100":[
+            {
+                "name": "Roquan Smith",
+                "position":"ILB",
+                "rank": 24
+            },
+            {
+                "name": "Lamar Jackson",
+                "position":"QB",
+                "rank": 72
+            },
+            {
+                "name": "Mark Andrews",
+                "position":"TE",
+                "rank": 80
+            },
+            {
+                "name": "Marlon Humphrey",
+                "position":"CB",
+                "rank": 92
+            }
+        ]
+
+    },
+    {
+        "name": "Buffalo Bills",
+        "city": "Buffalo",
+        "owner": "Terry and Tim Pegula",
+        "coach": "Sean McDermott",
+        "top_100":[
+            {
+                "name": "Josh Allen",
+                "position":"QB",
+                "rank": 8
+            },
+            {
+                "name": "Stefon Diggs",
+                "position":"WR",
+                "rank": 16
+            },
+            {
+                "name": "Jordan Poyer",
+                "position":"SS",
+                "rank": 57
+            },
+            {
+                "name": "Matt Milano",
+                "position":"LB",
+                "rank": 69
+            }
+        ]
+    },
+    {
+        "name": "Carolina Panthers",
+        "city": "Charlotte",
+        "owner": "David Tepper",
+        "coach": "Frank Reich",
+        "top_100":[
+            {
+                "name": "Brian Burns",
+                "position":"OLB",
+                "rank": 54
+            }
+        ]
+    },
+    {
+        "name": "Chicago Bears",
+        "city": "Chicago",
+        "owner": "Virginia Halas McCaskey",
+        "coach": "Matt Eberflus",
+        "last_championship":1986,
+        "top_100":[
+            {
+                "name": "Justin Fields",
+                "position":"QB",
+                "rank": 86
+            }
+        ]
+    },
+    {
+        "name": "Cincinnati Bengals",
+        "city": "Cincinnati",
+        "owner": "Mike Brown",
+        "coach": "Zac Taylor",
+        "top_100":[
+            {
+                "name": "Joe Burrow",
+                "position":"QB",
+                "rank": 6
+            },
+            {
+                "name": "Ja'Marr Chase",
+                "position":"WR",
+                "rank": 39
+            },
+            {
+                "name": "Trey Hendrickson",
+                "position":"DE",
+                "rank": 75
+            }
+        ]
+    },
+    {
+        "name": "Cleveland Browns",
+        "city": "Cleveland",
+        "owner": "Jimmy and Dee Haslam",
+        "coach": "Kevin Stefanski",
+        "top_100":[
+            {
+                "name": "Myles Garrett",
+                "position":"DE",
+                "rank": 20
+            },
+            {
+                "name": "Nick Chubb",
+                "position":"RB",
+                "rank": 29
+            },
+            {
+                "name": "Za'Darius Smith",
+                "position":"DE",
+                "rank": 84
+            }
+        ]
+    },
+    {
+        "name": "Dallas Cowboys",
+        "city": "Dallas",
+        "owner": "Jerry Jones",
+        "coach": "Mike McCarthy",
+        "last_championship":1996,
+        "top_100":[
+            {
+                "name":"Micah Parsons",
+                "position":"OLB",
+                "rank":9
+            },
+            {
+                "name": "CeeDee Lamb",
+                "position":"WR",
+                "rank": 34
+            },
+            {
+                "name": "Tony Pollard",
+                "position": "RB",
+                "rank": 55
+            },
+            {
+                "name": "Dak Prescott",
+                "position": "QB",
+                "rank": 56
+            },
+            {
+                "name": "Trevon Diggs",
+                "position": "CB",
+                "rank": 60
+            },
+            {
+                "name": "Zack Martin",
+                "position": "G",
+                "rank": 68
+            },
+            {
+                "name": "DeMarcus Lawrence",
+                "position": "DE",
+                "rank": 99
+            }
+        ]
+    },
+    {
+        "name": "Denver Broncos",
+        "city": "Denver",
+        "owner": "Rob Walton",
+        "coach": "Sean Payton",
+        "last_championship": 2016,
+        "top_100":[
+            {
+                "name": "Patrick Surtain II",
+                "position": "CB",
+                "rank": 49
+            },
+            {
+                "name": "Justin Simmons",
+                "position": "FS",
+                "rank": 59
+            }
+        ]
+    },
+    {
+        "name": "Detroit Lions",
+        "city": "Detroit",
+        "owner": "Sheila Ford Hamp",
+        "coach": "Dan Campbell",
+        "top_100":[
+            {
+                "name": "Jared Goff",
+                "position": "QB",
+                "rank": 66
+            },
+            {
+                "name": "Amon-Ra St. Brown",
+                "position": "WR",
+                "rank": 67
+            },
+            {
+                "name": "Aidan Hutchinson",
+                "position": "DE",
+                "rank": 88
+            }
+        ]
+    },
+    {
+        "name": "Green Bay Packers",
+        "city": "Green Bay",
+        "owner": "Green Bay Packers, Inc.",
+        "coach": "Matt LaFleur",
+        "last_championship": 2011,
+        "top_100":[
+            {
+                "name": "Jaire Alexander",
+                "position": "CB",
+                "rank": 26
+            },
+            {
+                "name": "Aaron Jones",
+                "position": "Rb",
+                "rank": 64
+            }
+        ]
+    },
+    {
+        "name": "Houston Texans",
+        "city": "Houston",
+        "owner": "Janice McNair",
+        "coach": "DeMeco Ryans",
+        "top_100":[
+            {
+                "name": "Laremy Tunsil",
+                "position": "OT",
+                "rank": 85
+            }
+        ]
+    },
+    {
+        "name": "Indianapolis Colts",
+        "city": "Indianapolis",
+        "owner": "Jim Irsay",
+        "coach": "Shane Steichen",
+        "last_championship": 2007,
+        "top_100":[
+            {
+                "name": "DeForest Buckner",
+                "position": "DT",
+                "rank": 71
+            }
+        ]
+    },
+    {
+        "name": "Jacksonville Jaguars",
+        "city": "Jacksonville",
+        "owner": "Shahid Khan",
+        "coach": "Doug Pederson",
+        "top_100":[
+            {
+                "name": "Trevor Lawrence",
+                "position": "QB",
+                "rank": 96
+            }
+        ]
+    },
+    {
+        "name": "Kansas City Chiefs",
+        "city": "Kansas City",
+        "owner": "Clark Hunt",
+        "coach": "Andy Reid",
+        "last_championship": 2023,
+        "top_100":[
+            {
+                "name": "Patrick Mahomes",
+                "position": "QB",
+                "rank": 1
+            },
+            {
+                "name": "Travis Kelce",
+                "position": "TE",
+                "rank": 5
+            },
+            {
+                "name": "Chris Jones",
+                "position": "DT",
+                "rank": 10
+            }
+        ]
+    },
+    {
+        "name": "Las Vegas Raiders",
+        "city": "Las Vegas",
+        "owner": "Mark and Carol Davis",
+        "coach": "Josh McDaniels",
+        "last_championship": 1984,
+        "top_100":[
+            {
+                "name": "Josh Jacobs",
+                "position": "RB",
+                "rank": 12
+            },
+            {
+                "name": "Davante Adams",
+                "position": "WR",
+                "rank": 13
+            },
+            {
+                "name": "Max Crosby",
+                "position": "DE",
+                "rank": 17
+            }
+        ]
+    },
+    {
+        "name": "Los Angeles Chargers",
+        "city": "Los Angeles",
+        "owner": "Dean Spanos",
+        "coach": "Brandon Staley",
+        "top_100":[
+            {
+                "name": "Austin Ekeler",
+                "position": "RB",
+                "rank": 21
+            },
+            {
+                "name": "Derwin James",
+                "position": "SS",
+                "rank": 30
+            },
+            {
+                "name": "Justin Herbert",
+                "position": "QB",
+                "rank": 32
+            },
+            {
+                "name": "Khalil Mack",
+                "position": "OLB",
+                "rank": 38
+            },
+            {
+                "name": "Joey Bosa",
+                "position": "OLB",
+                "rank": 70
+            },
+            {
+                "name": "Eric Kendricks",
+                "position": "MLB",
+                "rank": 93
+            }
+        ]
+    },
+    {
+        "name": "Los Angeles Rams",
+        "city": "Los Angeles",
+        "owner": "Stan Kroenke",
+        "coach": "Sean McVay",
+        "last_championship": 2022,
+        "top_100":[
+            {
+                "name": "Aaron Donald",
+                "position": "Dt",
+                "rank": 11
+            },
+            {
+                "name": "Cooper Kupp",
+                "position": "WR",
+                "rank": 47
+            }
+        ]
+    },
+    {
+        "name": "Miami Dolphins",
+        "city": "Miami",
+        "owner": "Stephen M. Ross",
+        "coach": "Mike McDaniel",
+        "last_championship": 1974,
+        "top_100":[
+            {
+                "name": "Tyreek Hill",
+                "position": "WR",
+                "rank": 7
+            },
+            {
+                "name": "Jalen Ramsey",
+                "position": "CB",
+                "rank": 36
+            },
+            {
+                "name": "Jaylen Waddle",
+                "position": "WR",
+                "rank": 44
+            },
+            {
+                "name": "Christian Wilkin",
+                "position": "DT",
+                "rank": 81
+            },
+            {
+                "name": "Tua Tagovailoa",
+                "position": "QB",
+                "rank": 82
+            },
+            {
+                "name": "Terronn Armstead",
+                "position": "OT",
+                "rank": 83
+            }
+        ]
+    },
+    {
+        "name": "Minnesota Vikings",
+        "city": "Minneapolis",
+        "owner": "Zygi Wilf",
+        "coach": "Kevin O'Connell",
+        "top_100":[
+            {
+                "name": "Justin Jefferson",
+                "position": "WR",
+                "rank": 2
+            },
+            {
+                "name": "Kirk Cousins",
+                "position": "QB",
+                "rank": 42
+            },
+            {
+                "name": "Harrison Smith",
+                "position": "S",
+                "rank": 97
+            }
+        ]
+    },
+    {
+        "name": "New England Patriots",
+        "city": "Foxborough",
+        "owner": "Robert Kraft",
+        "coach": "Bill Belichick",
+        "last_championship": 2019,
+        "top_100":[
+            {
+                "name": "Matthew Judon",
+                "position": "LB",
+                "rank": 33
+            }
+        ]
+    },
+    {
+        "name": "New Orleans Saints",
+        "city": "New Orleans",
+        "owner": "Gayle Benson",
+        "coach": "Dennis Allen",
+        "last_championship": 2010,
+        "top_100":[
+            {
+                "name": "Demario Davis",
+                "position": "OLB",
+                "rank": 43
+            },
+            {
+                "name": "Cameron Jordan",
+                "position": "DE",
+                "rank": 50
+            },
+            {
+                "name": "Marshon Lattmiore",
+                "position": "CB",
+                "rank": 89
+            },
+            {
+                "name": "Jamaal Williams",
+                "position": "RB",
+                "rank": 95
+            }
+        ]
+    },
+    {
+        "name": "New York Giants",
+        "city": "New York",
+        "owner": "John Mara and Steve Tisch",
+        "coach": "Brian Daboll",
+        "last_championship": 2012,
+        "top_100":[
+            {
+                "name": "Dexter Lawrence",
+                "position": "DT",
+                "rank": 28
+            },
+            {
+                "name": "Saquon Barkley",
+                "position": "RB",
+                "rank": 31
+            }
+        ]
+    },
+    {
+        "name": "New York Jets",
+        "city": "New York",
+        "owner": "Woody and Christopher Johnson",
+        "coach": "Robert Saleh",
+        "last_championship": 1969,
+        "top_100":[
+            {
+                "name": "Sauce Gardner",
+                "position": "CB",
+                "rank": 23
+            },
+            {
+                "name": "Quinnen Williams",
+                "position": "DT",
+                "rank": 40
+            },
+            {
+                "name": "C.J. Mosley",
+                "position": "LB",
+                "rank": 46
+            },
+            {
+                "name": "Aaron Rodgers",
+                "position": "QB",
+                "rank": 51
+            },
+            {
+                "name": "Garret Wilson",
+                "position": "WR",
+                "rank": 74
+            },
+            {
+                "name": "Dalvin Cook",
+                "position": "RB",
+                "rank": 91
+            }
+        ]
+    },
+    {
+        "name": "Philadelphia Eagles",
+        "city": "Philadelphia",
+        "owner": "Jeffrey Lurie",
+        "coach": "Nick Sirianni",
+        "last_championship": 2018,
+        "top_100":[
+            {
+                "name": "Jalen Hurts",
+                "position": "QB",
+                "rank": 3
+            },
+            {
+                "name": "A.J. Brown",
+                "position": "WR",
+                "rank": 22
+            },
+            {
+                "name": "Jason Kelce",
+                "position": "C",
+                "rank": 37
+            },
+            {
+                "name": "Lane Johnson",
+                "position": "OT",
+                "rank": 41
+            },
+            {
+                "name": "Hasson Reddick",
+                "position": "OLB",
+                "rank": 48
+            },
+            {
+                "name": "Darius Slay",
+                "position": "CB",
+                "rank": 65
+            },
+            {
+                "name": "DeVonta Smith",
+                "position": "WR",
+                "rank": 100
+            }
+        ]
+    },
+    {
+        "name": "Pittsburgh Steelers",
+        "city": "Pittsburgh",
+        "owner": "Rooney Family",
+        "coach": "Mike Tomlin",
+        "last_championship": 2009,
+        "top_100": [
+            {
+                "name": "Minkah Fitzpatrick",
+                "position": "FS",
+                "rank": 18
+            },
+            {
+                "name": "T.J. Watt",
+                "position": "LB",
+                "rank": 27
+            },
+            {
+                "name": "Cameron Heyward",
+                "position": "DT",
+                "rank": 45
+            }
+        ]
+    },
+    {
+        "name": "San Francisco 49ers",
+        "city": "San Francisco",
+        "owner": "Jed York",
+        "coach": "Kyle Shanahan",
+        "last_championship": 1995,
+        "top_100": [
+            {
+                "name": "Nick Bosa",
+                "position": "DE",
+                "rank": 4
+            },
+            {
+                "name": "Trent Williams",
+                "position": "OT",
+                "rank": 14
+            },
+            {
+                "name": "Fred Warner",
+                "position": "MLB",
+                "rank": 15
+            },
+            {
+                "name": "George Kittle",
+                "position": "TE",
+                "rank": 19
+            },
+            {
+                "name": "Christian McCaffrey",
+                "position": "RB",
+                "rank": 35
+            },
+            {
+                "name": "Deebo Samuel",
+                "position": "WR",
+                "rank": 61
+            },
+            {
+                "name": "Talanoa Hufanga",
+                "position": "S",
+                "rank": 78
+            },
+            {
+                "name": "Dre Greenlaw",
+                "position": "OLB",
+                "rank": 79
+            }
+        ]
+    },
+    {
+        "name": "Seattle Seahawks",
+        "city": "Seattle",
+        "owner": "Jody Allen",
+        "coach": "Pete Carroll",
+        "last_championship": 2014,
+        "top_100": [
+            {
+                "name": "Bobby Wagner",
+                "position": "MLB",
+                "rank": 62
+            },
+            {
+                "name": "Tariq Woolen",
+                "position": "CB",
+                "rank": 76
+            },
+            {
+                "name": "Geno Smith",
+                "position": "QB",
+                "rank": 77
+            }
+        ]
+    },
+    {
+        "name": "Tampa Bay Buccaneers",
+        "city": "Tampa",
+        "owner": "Glazer family",
+        "coach": "Todd Bowles",
+        "last_championship": 2021,
+        "top_100": [
+            {
+                "name": "Mike Evans",
+                "position": "WR",
+                "rank": 53
+            },
+            {
+                "name": "Tristan Wirfs",
+                "position": "OT",
+                "rank": 98
+            }
+        ]
+    },
+    {
+        "name": "Tennessee Titans",
+        "city": "Nashville",
+        "owner": "Amy Adams Strunk",
+        "coach": "Mike Vrabel",
+        "top_100": [
+            {
+                "name": "Derrick Henry",
+                "position": "RB",
+                "rank": 25
+            },
+            {
+                "name": "Jeffery Simmons",
+                "position": "DT",
+                "rank": 58
+            },
+            {
+                "name": "DeAndre Hopkins",
+                "position": "WR",
+                "rank": 91
+            }
+        ]
+    },
+    {
+        "name": "Washington Commanders",
+        "city": "Washington, D.C.",
+        "owner": "Josh Harris",
+        "coach": "Ron Rivera",
+        "top_100": [
+            {
+                "name": "Jonathan Allen",
+                "position": "DT",
+                "rank": 52
+            },
+            {
+                "name": "Terry McLaurin",
+                "position": "WR",
+                "rank": 94
+            }
+        ]
+    }
+]
+
+
+
